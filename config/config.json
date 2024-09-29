@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "root",
-    "password": "ThisisMySQLPass31*",
+    "password": "your_db_password",
     "database": "user_address_db",
     "host": "127.0.0.1",
     "dialect": "mysql"
